@@ -1,0 +1,11 @@
+{
+	"id": "linkmatic",
+	"name": "LinkMatic",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Creates internal links based on keywords. You can specify which folders you want to create links for (or leave them blank for global)",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
